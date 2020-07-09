@@ -1,0 +1,103 @@
+body{
+   font-family: 'Poppins', sans-serif;
+
+}
+.bg-top{
+    background-color: #F0FFF0;
+    
+}
+#navbarText ul li a{
+    padding: 0px 20px;
+    font-weight: 600;
+}
+.navbar-bg{
+    background-color: #F0FFF0;
+}
+.all-button{
+    color: white;
+    border-radius: 33px;
+    padding: 5px 30px;
+    background-color: #21b573;
+}
+.logo-img{
+    width: 190px;
+    height: 60px;
+}
+.ilustrat-img{
+    width: 554px;
+    height: 346px;
+    margin-right: 30px;
+}
+.top-contant{
+    margin-top: 80px;
+}
+.top-contant h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.img-book img{
+    width: 66px;
+    height: 85px;
+}
+.img-student img{
+    width: 80px;
+    height: 83px;
+}
+.img-test img{
+    width: 75px;
+    height: 80px;
+}
+.img-students img{
+    width: 68px;
+    height: 76px;
+}
+.card-hi-wi .card{
+    background-color: #F0FFF0;
+    width: 270px;
+    height: 270px;
+    border: none;
+    border-radius: 12px;
+}
+.card-hi-wi .card:hover{
+    background-color: white;
+    box-shadow: 10px 10px 40px gray;
+}
+.card-hi-wi-2 .card{
+    width: 370px;
+    height: 483px;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 10px 10px 40px lightgray;
+}
+.card-hi-wi-2 .card .card-padd{
+    padding: 18px;
+}
+.calendar-img{
+    width: 25px;
+    height: 25px;
+}
+.card-foot-text{
+    margin-top: 40px;
+    padding: 0px 18px;
+}
+.man img{
+    width: 120px;
+    height: 120px;
+}
+.man p{
+    width: 580px;
+    height: 90px;
+}
+.footer{
+    color: lightgray;
+    background-color:  #282531;
+    height: 400px;
+}
+.footer .container{
+    padding-top: 50px;
+}
+.footer h5{
+    font-weight: 900;
+}
+
+    
